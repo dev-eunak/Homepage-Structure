@@ -4,16 +4,29 @@
 
 #### :new_moon: layout01
 
-![](C:\Users\adminX\Desktop\HTML-BASIC-LAYOUT\layout01.JPG)
+![](C:\Users\adminX\Desktop\Homepage-Structure\HTML-BASIC-LAYOUT\layout01.JPG)
 
 
 
 #### :new_moon_with_face: layout02
 
-![](C:\Users\adminX\Desktop\HTML-BASIC-LAYOUT\layout02.JPG)
+![](C:\Users\adminX\Desktop\Homepage-Structure\HTML-BASIC-LAYOUT\layout02.JPG)
 
 
 
 #### :waning_crescent_moon: layout03
 
-![](C:\Users\adminX\Desktop\HTML-BASIC-LAYOUT\layout03.JPG)
+![](C:\Users\adminX\Desktop\Homepage-Structure\HTML-BASIC-LAYOUT\layout03.JPG)
+
+
+
+#### :last_quarter_moon: layout04
+
+![](C:\Users\adminX\Desktop\Homepage-Structure\HTML-BASIC-LAYOUT\layout04.JPG)
+
+
+
+#### :waning_gibbous_moon: layout05
+
+![](C:\Users\adminX\Desktop\Homepage-Structure\HTML-BASIC-LAYOUT\layout05.JPG)
+
