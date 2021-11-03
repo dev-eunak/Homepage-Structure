@@ -4,29 +4,40 @@
 
 #### :new_moon: layout01
 
-![](C:\Users\adminX\Desktop\Homepage-Structure\HTML-BASIC-LAYOUT\layout01.JPG)
+<img src="C:\Users\adminX\Desktop\Homepage-Structure\HTML-BASIC-LAYOUT\layout01.JPG" style="zoom:33%;" />
 
 
 
 #### :new_moon_with_face: layout02
 
-![](C:\Users\adminX\Desktop\Homepage-Structure\HTML-BASIC-LAYOUT\layout02.JPG)
+<img src="C:\Users\adminX\Desktop\Homepage-Structure\HTML-BASIC-LAYOUT\layout02.JPG" style="zoom:33%;" />
 
 
 
 #### :waning_crescent_moon: layout03
 
-![](C:\Users\adminX\Desktop\Homepage-Structure\HTML-BASIC-LAYOUT\layout03.JPG)
+<img src="C:\Users\adminX\Desktop\Homepage-Structure\HTML-BASIC-LAYOUT\layout03.JPG" style="zoom:33%;" />
 
 
 
 #### :last_quarter_moon: layout04
 
-![](C:\Users\adminX\Desktop\Homepage-Structure\HTML-BASIC-LAYOUT\layout04.JPG)
+<img src="C:\Users\adminX\Desktop\Homepage-Structure\HTML-BASIC-LAYOUT\layout04.JPG" style="zoom:33%;" />
 
 
 
 #### :waning_gibbous_moon: layout05
 
-![](C:\Users\adminX\Desktop\Homepage-Structure\HTML-BASIC-LAYOUT\layout05.JPG)
+<img src="C:\Users\adminX\Desktop\Homepage-Structure\HTML-BASIC-LAYOUT\layout05.JPG" style="zoom:33%;" />
 
+
+
+#### :full_moon: layout06
+
+<img src="C:\Users\adminX\Desktop\Homepage-Structure\HTML-BASIC-LAYOUT\layout06.JPG" style="zoom:33%;" />
+
+
+
+#### :full_moon_with_face: layout07
+
+<img src="C:\Users\adminX\Desktop\Homepage-Structure\HTML-BASIC-LAYOUT\layout07.JPG" style="zoom:33%;" />
